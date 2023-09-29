@@ -1,6 +1,6 @@
 # 🚀 Oasis InfoByte Java Programming Internship Tasks 🚀
 
-Welcome to the Oasis InfoByte Java Programming Internship! 🎉 During my time as an intern at Codsoft, I had the chance to dive into some awesome Java projects. Let's explore the cool stuff I worked on! 😎
+Welcome to the Oasis InfoByte Java Programming Internship! 🎉 During my time as an intern at Oasis InfoByte, I had the chance to dive into some awesome Java projects. Let's explore the cool stuff I worked on! 😎
 
 ## 1) Number Guessing Game 🎮
 - **Description:** Think you're good at guessing? This project is all about creating a Java-based number guessing game. Players have just 3 tries to guess the secret number, and they can use only 1 hint. It's a fun challenge that puts your Java skills to the test!
