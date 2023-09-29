@@ -23,9 +23,8 @@ Welcome to the Oasis InfoByte Java Programming Internship! 🎉 During my time a
 ## Getting Started 🚀
 If you're itching to dive into these projects or use them as inspiration for your own Java adventures, you're in luck! Check out the source code and documentation in the repositories linked below:
 
-- [Number Guessing Game Repo]()
-- [Student Grade Calculator Repo]()
-- [ATM Interface Repo]()
+- [Number Guessing Game Repo](https://github.com/rudraparmar76/OIBSIP/blob/main/OIBSIP/Task2.java)
+- [ATM Interface Repo](https://github.com/rudraparmar76/OIBSIP/blob/main/OIBSIP/Task3.java)
 
 Feel free to clone the repos, play around with the code, and have some fun! If you have any questions or just want to chat about coding, don't hesitate to reach out. Happy coding, folks! 🌟
 
